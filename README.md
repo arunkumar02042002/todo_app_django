@@ -6,32 +6,38 @@ This Django To-Do app is designed to help you manage your tasks and to-do lists 
 
 ## Features
 
-1. Home View
+1. Home View:
+
     The home view displays a list of tasks, categorizing them into "Pending Tasks" and "Completed Tasks." This view serves as the main interface for managing your to-do list.
 
-    ![Home View](images_for_readme/image.png)
+    ![Home View](images_for_readme/home.png)
 
-2. Add Task
+2. Add Task:
+
     The "Add Task" feature allows you to create a new task. Simply enter the task description and click "Add" to include it in your to-do list.
 
     ![Add Task](images_for_readme/add_task.png)
 
-3. Mark Task as Done
+3. Mark Task as Done:
+
     You can mark a task as completed by clicking the "Mark as Done" button next to the task. Completed tasks are moved to the "Completed Tasks" section.
 
     ![Mark Task as Done](images_for_readme/mark_as_done.png)
 
-4. Mark Task as Undone
+4. Mark Task as Undone:
+
     If you mistakenly marked a task as completed, you can undo this action by clicking the "Mark as Undone" button. The task is then moved back to the "Pending Tasks" section.
 
     ![Mark Task as Undone](images_for_readme/mark_as_undone.png)
 
-5. Edit Task
+5. Edit Task:
+
     Need to update the details of a task? Click the "Edit" button next to the task, make your changes, and save the updated task.
 
     ![Edit Task](images_for_readme/edit_task.png)
 
-6. Delete Task
+6. Delete Task:
+
     Tasks you no longer need can be deleted from your to-do list. Click the "Delete" button to remove a task permanently.
 
     ![Delete Task](images_for_readme/delete_task.png)
