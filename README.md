@@ -50,6 +50,9 @@ pip install Django
 ```
 
 **Clone the Repository:** Clone this project's repository to your local machine.
+```
+git clone https://github.com/arunkumar02042002/todo_app_django.git
+```
 
 **Database Setup:** Configure your database settings in the project's settings.py file. Run migrations to create the necessary database tables:
 ```
