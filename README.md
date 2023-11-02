@@ -47,8 +47,9 @@ This Django To-Do app is designed to help you manage your tasks and to-do lists 
 **Installation:** Ensure you have Django installed. If not, you can install it using pip:
 ```
 pip install Django
-Clone the Repository: Clone this project's repository to your local machine.
 ```
+
+**Clone the Repository:** Clone this project's repository to your local machine.
 
 **Database Setup:** Configure your database settings in the project's settings.py file. Run migrations to create the necessary database tables:
 ```
